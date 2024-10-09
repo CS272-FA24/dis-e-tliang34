@@ -24,9 +24,9 @@
 
     b. Otherwise, go to step 2.
 
-6. If the book at position `i` is alphabetically greater than the book at position `i + 1`, then:
+6. If the book at position `i` is alphabetically greater than the book at position `i` + 1, then:
 
-    a. Swap the books at positions `i` and `i + 1`.
+    a. Swap the books at positions `i` and `i` + 1.
     
     b. Assign TRUE to `swapped`.
 
